@@ -1,0 +1,2 @@
+[11-Nov-2023 14:33:44 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/Den1xxx/Filemanager/master/languages/ru.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/nhnhahq5/public_html/wp-content/themes/default-wp/file.php on line 101
